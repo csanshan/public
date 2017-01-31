@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+space"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["alt+;"], "command": "run_macro_file", "args": {"file": "Packages/User/add.sublime-macro"} }
+]
